@@ -1,58 +1,39 @@
 class Solution {
-    public double separateSquares(int[][] squares) {
-        double totalArea = 0;
-        double low = 2e9; // Initialize with a large value
-        double high = 0;
 
-        // 1. Calculate Total Area and initial bounds
+    public double separateSquares(int[][] squares) {
+        double max_y = 0;
+        double total_area = 0;
         for (int[] sq : squares) {
-            double y = sq[1];
-            double l = sq[2];
-            
-            // Cast to double BEFORE multiplying to prevent Integer Overflow
-            totalArea += l * l;
-            
-            low = Math.min(low, y);
-            high = Math.max(high, y + l);
+            int y = sq[1];
+            int l = sq[2];
+            total_area += (double) l * l;
+            max_y = Math.max(max_y, (double) (y + l));
         }
 
-        double halfArea = totalArea / 2.0;
-
-        // 2. Binary Search with fixed iterations
-        
-        for (int i = 0; i < 100; i++) {
-            double mid = low + (high - low) / 2.0;
-            
-            if (calculateArea(squares, mid) >= halfArea) {
-                high = mid; // Area is sufficient, try to lower the line
+        double lo = 0;
+        double hi = max_y;
+        double eps = 1e-5;
+        while (Math.abs(hi - lo) > eps) {
+            double mid = (hi + lo) / 2;
+            if (check(mid, squares, total_area)) {
+                hi = mid;
             } else {
-                low = mid;  // Area is too small, need to raise the line
+                lo = mid;
             }
         }
-        
-        return high;
+
+        return hi;
     }
 
-    // Helper function to calculate area below the line 'currentY'
-    private double calculateArea(int[][] squares, double currentY) {
+    private Boolean check(double limit_y, int[][] squares, double total_area) {
         double area = 0;
         for (int[] sq : squares) {
-            double y = sq[1];
-            double l = sq[2];
-            double top = y + l;
-
-            if (y >= currentY) {
-                // Case 1: Square is completely above the line
-                continue;
-            } else if (top <= currentY) {
-                // Case 2: Square is completely below the line
-                area += l * l;
-            } else {
-                // Case 3: Line cuts through the square
-                // We take the width (l) * the height of the bottom portion (currentY - y)
-                area += l * (currentY - y);
+            int y = sq[1];
+            int l = sq[2];
+            if (y < limit_y) {
+                area += (double) l * Math.min(limit_y - y, (double) l);
             }
         }
-        return area;
+        return area >= total_area / 2;
     }
 }
