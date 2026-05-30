@@ -1,27 +1,31 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        Set<List<Integer>> result = new HashSet<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
+        List<List<Integer>> result = new ArrayList<>();
         int n = nums.length;
+        Arrays.sort(nums);
 
         for(int i=0;i<n;i++) {
-            for(int j=i+1;j<n;j++) {
-                Set<Integer> set = new HashSet<>();
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+                for(int j=i+1; j<n; j++) {
+                    if(j > i+1 && nums[j] == nums[j-1]) continue;
+                    int left = j + 1;
+                    int right = n - 1;
 
-                for(int k=j+1; k<n; k++) {
-                    long sum = (long) nums[i] + (long) nums[j] + (long) nums[k];
-                    long fourth = (long) target - (sum);
+                    while(left < right) {
+                        long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
+                        if(sum == (long) target) {
+                            result.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+                            left++;
+                            right--;
 
-                    if (fourth >= Integer.MIN_VALUE && fourth <= Integer.MAX_VALUE && set.contains((int) fourth)) {
-                        List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], (int) fourth);
-                        Collections.sort(temp);
-                        result.add(temp);
+                            while(left < right && nums[left] == nums[left - 1]) left++;
+                            while(left < right && nums[right] == nums[right + 1]) right--;
+                        }
+                        else if(sum < (long) target) left++;
+                        else right--;
                     }
-
-                    set.add(nums[k]);
                 }
             }
+            return result;
         }
-        return new ArrayList<>(result);
     }
-}
