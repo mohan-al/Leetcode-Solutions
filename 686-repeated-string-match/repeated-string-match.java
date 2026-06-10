@@ -7,10 +7,12 @@ class Solution {
             sb.append(a);
             count++;
         }
+        String str = sb.toString();
+        if(str.contains(b)) return count;
 
-        if(sb.indexOf(b) != -1) return count;
         sb.append(a);
-        if(sb.indexOf(b) != -1) return count+1;
+        str = sb.toString();
+        if(str.contains(b)) return count+1;
 
         return -1;
     }
