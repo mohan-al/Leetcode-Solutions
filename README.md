@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -39,5 +40,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
