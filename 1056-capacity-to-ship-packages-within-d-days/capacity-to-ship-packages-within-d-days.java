@@ -3,13 +3,11 @@ class Solution {
         int day = 1;
         int load = 0;
         for(int weight: weights) {
-        
-            if(load + weight > capacity) {
+            
+            load += weight;
+            if(load > capacity) {
                 day++;
                 load = weight;
-            }
-            else {
-                load += weight;
             }
         }
         return day <= days;
