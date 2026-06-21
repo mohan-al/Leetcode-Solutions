@@ -10,21 +10,14 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int count = 0;
+        ArrayList<ListNode> list = new ArrayList<>();
         ListNode temp = head;
 
         while(temp != null) {
-            count++;
+            list.add(temp);
             temp = temp.next;
         }
 
-        int mid = count / 2;
-        temp = head;
-
-        while(mid > 0) {
-            temp = temp.next;
-            mid--;
-        }
-        return temp;
+        return list.get(list.size() / 2);
     }
 }
