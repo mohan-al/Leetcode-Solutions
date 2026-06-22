@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
