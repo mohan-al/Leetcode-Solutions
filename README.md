@@ -66,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
