@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
