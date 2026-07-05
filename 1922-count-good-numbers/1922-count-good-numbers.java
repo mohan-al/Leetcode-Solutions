@@ -10,18 +10,16 @@ class Solution {
         return (int) ((eChoice * oChoice) % MOD);
     }
     private long power(long base, long exp) {
-        if(exp == 0) return 1;
-
         long result = 1;
 
-        long half = power(base, exp/2);
+        while(exp > 0) {
+            if((exp & 1) == 1) {
+                 result = (result * base) % MOD;
+            }
+                 base = (base * base) % MOD;
 
-        if(exp % 2 == 0) {
-            result = (half * half)%MOD; 
-        }
-        else {
-            result = (half * half * base) % MOD;
+                 exp >>>=1;
         }
         return result;
-    }
+    }    
 }
