@@ -10,11 +10,11 @@ class Solution {
         double pow = 1.0;
 
         while(N > 0) {
-            if((N % 2) == 1) {
+            if((N & 1) == 1) {
                 pow *= x;
             }
             x *= x;
-            N = N/2;
+            N >>>=1;
         }
         return pow;
 
