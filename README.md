@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
@@ -103,6 +105,7 @@
 | [0031-next-permutation](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
