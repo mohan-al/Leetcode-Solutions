@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
