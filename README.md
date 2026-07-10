@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
