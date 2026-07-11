@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0040-combination-sum-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
