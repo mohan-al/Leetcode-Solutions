@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
