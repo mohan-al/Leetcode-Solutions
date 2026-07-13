@@ -7,41 +7,42 @@ class Solution {
             Arrays.fill(board[i], '.');
         }
 
-        solve(0, board, ans);
+        boolean[] col = new boolean[n];
+        boolean[] diag = new boolean[2*n -1];
+        boolean[] anti = new boolean[2*n -1];
+
+        solve(0, n, board, col, diag, anti, ans);
+        
         return ans;
     }
-    
-    private void solve(int row, char[][] board, List<List<String>> ans) {
-        if(row == board.length) {
+
+    private void solve(int row, int n, char[][] board, boolean[] col, boolean[] diag, boolean[] anti, List<List<String>> ans) {
+        if(row == n) {
             ans.add(construct(board));
             return;
         }
 
-        for(int col=0; col<board.length; col++) {
-            if(isSafe(row, col, board)) {
-                board[row][col] = 'Q';
-                solve(row+1, board, ans);
-                board[row][col] = '.';
+        for(int c=0; c<n; c++) {
+            int d = row - c + n - 1;
+            int ad = row + c;
+
+            if(!col[c] && !diag[d] && !anti[ad]) {
+                board[row][c] = 'Q';
+                col[c] = true;
+                diag[d] = true;
+                anti[ad] = true;
+
+                solve(row+1, n, board, col, diag, anti, ans);
+
+                board[row][c] = '.';
+                col[c] = false;
+                diag[d] = false;
+                anti[ad] = false;
+
             }
         }
     }
-
-    private boolean isSafe(int row, int col, char[][] board) {
-        for(int i=row -1; i>=0; i--) {
-            if(board[i][col] == 'Q') return false;
-        }
-
-        for(int i=row-1, j=col-1; i>=0 && j>=0; i--, j--) {
-            if(board[i][j] == 'Q') return false;
-        }
-
-        for(int i=row-1, j=col+1; i>=0 && j<board.length; i--, j++) {
-            if(board[i][j] == 'Q') return false;
-        }
-
-        return true;
-    }
-
+    
     private List<String> construct(char[][] board) {
         List<String> list = new ArrayList<>();
         for(char[] row: board) {
