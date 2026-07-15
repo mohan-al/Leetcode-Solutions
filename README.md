@@ -56,6 +56,7 @@
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
