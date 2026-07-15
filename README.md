@@ -158,6 +158,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -205,12 +206,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
