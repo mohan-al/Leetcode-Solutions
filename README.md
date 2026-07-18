@@ -58,6 +58,7 @@
 | [0014-longest-common-prefix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -201,6 +202,7 @@
 | [0090-subsets-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -222,6 +225,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -230,6 +234,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
