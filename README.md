@@ -61,6 +61,7 @@
 | [0130-surrounded-regions](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -306,6 +308,7 @@
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
@@ -315,4 +318,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
