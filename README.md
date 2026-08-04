@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -118,6 +122,7 @@
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -276,6 +281,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +323,7 @@
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -345,4 +352,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
