@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@
 | [0130-surrounded-regions](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -314,6 +316,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Trie
 |  |
 | ------- |
