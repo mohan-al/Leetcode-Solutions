@@ -70,6 +70,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -195,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -219,6 +221,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -356,4 +359,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
