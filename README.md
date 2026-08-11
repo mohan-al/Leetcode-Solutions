@@ -64,6 +64,7 @@
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
@@ -284,6 +285,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -326,6 +328,7 @@
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
@@ -338,6 +341,7 @@
 | [0210-course-schedule-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
