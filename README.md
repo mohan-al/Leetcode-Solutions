@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -55,6 +56,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
@@ -63,6 +65,7 @@
 | [0130-surrounded-regions](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -77,6 +80,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -89,6 +93,7 @@
 | [0169-majority-element](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -283,6 +288,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -325,6 +331,7 @@
 | [0210-course-schedule-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
