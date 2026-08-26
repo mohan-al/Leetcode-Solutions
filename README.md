@@ -169,6 +169,7 @@
 | [0048-rotate-image](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -204,6 +205,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
