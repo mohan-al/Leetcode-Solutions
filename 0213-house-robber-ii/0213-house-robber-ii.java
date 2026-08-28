@@ -3,28 +3,28 @@ class Solution {
         int n = nums.length;
         if(n == 1) return nums[0];
 
-        int[] dp1 = new int[n];
-        int[] dp2 = new int[n];
-
-        Arrays.fill(dp1, -1);
-        Arrays.fill(dp2, -1);
-
         // Not considering last house
-        int case1 = solve(nums, 0, n-2, dp1);
+        int case1 = solve(nums, 0, n-2);
         // Not considering first house
-        int case2 = solve(nums, 1, n-1, dp2);
+        int case2 = solve(nums, 1, n-1);
 
         return Math.max(case1, case2);
     }
-    private int solve(int[] nums, int i, int end, int[] dp) {
-        if(i > end) return 0;
+    private int solve(int[] nums, int start, int end) {
+        int prev1 = 0;
+        int prev2 = 0;
+        
+        for(int i=start; i<=end; i++) {
 
-        if(dp[i] != -1) return dp[i];
+        int take = nums[i] + prev2;
+        int notTake = 0 + prev1;
 
-        int take = nums[i] + solve(nums, i+2, end, dp);
-        int notTake = 0 + solve(nums, i+1, end, dp);
+        int current = Math.max(take, notTake);
+        prev2 = prev1;
+        prev1 = current;
+        
+        }
 
-        dp[i] = Math.max(take, notTake);
-        return dp[i];
+        return prev1;
     }
 }
