@@ -38,6 +38,7 @@
 | [0216-combination-sum-iii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -221,6 +222,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0200-number-of-islands](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
@@ -400,4 +403,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
