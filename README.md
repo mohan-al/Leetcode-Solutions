@@ -86,6 +86,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -224,6 +225,7 @@
 | [0131-palindrome-partitioning](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 ## Monotonic Stack
 |  |
