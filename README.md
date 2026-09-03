@@ -42,6 +42,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -235,6 +236,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
