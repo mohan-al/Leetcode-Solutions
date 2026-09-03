@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -237,6 +238,7 @@
 | [0322-coin-change](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohan-al/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/mohan-al/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
