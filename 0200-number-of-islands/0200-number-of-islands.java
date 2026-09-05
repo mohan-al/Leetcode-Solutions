@@ -15,14 +15,11 @@ class Solution {
         }
         return islands;
     }
-
     private void dfs(char[][] grid, int row, int col) {
-        int rows = grid.length;
-        int cols = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
 
-        if(row < 0 || col < 0 || row >= rows || col >= cols || grid[row][col] == '0'){
-            return;
-        }
+        if(row < 0 || col < 0 || row >= m || col >= n || grid[row][col] == '0') return;
 
         grid[row][col] = '0';
 
