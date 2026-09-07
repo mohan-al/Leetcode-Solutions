@@ -35,7 +35,7 @@ class Solution {
             }
 
             parent[rootB] = rootA;
-            size[rootA] += rootB;
+            size[rootA] += size[rootB];
         }
     }
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
